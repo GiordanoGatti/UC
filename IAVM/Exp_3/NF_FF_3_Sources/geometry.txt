@@ -1,0 +1,13 @@
+%Radius of sound sources (SS)
+%Vent or tube (resonator)
+dSS1=2.5*10^(-2);              %Diameter
+%Loudspeaker 1-LF
+dSS2=11*10^(-2);              %Diameter
+%Loudspeaker 2-HF
+dSS3=2.5*10^(-2); 
+aSS1=dSS1/2; 
+aSS2=dSS2/2; 
+aSS3=dSS3/2; 
+%Parameters 
+c=343; %m/s
+rho=1.21;   
