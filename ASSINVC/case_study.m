@@ -2,9 +2,6 @@ clear all
 close all
 clc
 
-%Group 4 - Giordano, N.2023184877 | Yassine, N.2023184866
-%Case Study
-
 %% The ceramic brick wall
 h_ext=0.24;
 rho_wall_ext=1280;
@@ -208,12 +205,3 @@ V_entrance = 1.85*2.7*h_residential;
 T0=0.5;
 
 Dntw_elevator= Rw_elevator-K+10*log10(V_entrance/(6.25*T0*S_wall_elevator)) %Rehabilitation is needed
-
-
-
-
-
-
-
-
-
