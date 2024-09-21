@@ -26,6 +26,3 @@ build/
 Thumbs.db
 .idea/
 .vscode/
-
-#runoff files
-*.rnh
