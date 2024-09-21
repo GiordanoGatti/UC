@@ -2,7 +2,7 @@
 <img src="https://www.uc.pt/site/assets/files/418310/fctuc_h_fundoclaro.1200x0.png" alt="FCTUC" style="width:10%"> 
 </p>
 
-Here you will find some projects developed during my undergraduate studies in electrical engineering at the State University of Campinas, in Brazil. The projects are separated by their respective courses, listed below.
+Here you will find some projects developed during my masters in Acoustic and Energy Efficiency for sustainable constructions at the Faculty of Science and Technology of the University of Coimbra. The projects are separated by their respective courses, listed below.
 
 <table>
   <tr>
@@ -10,19 +10,22 @@ Here you will find some projects developed during my undergraduate studies in el
     <th>Course Name</th>
   </tr>
   <tr>
-    <td>EA076</td>
-    <td>Embedded Systems</td>
+    <td>ASSINVC</td>
+    <td>Advanced Strategies for Sound Insulation and Noise Vibration Control</td>
   </tr>
   <tr>
-    <td>EA871</td>
-    <td>Basic Digital Systems Programming</td>
+    <td>AVBE</td>
+    <td>Acoustics and Vibrations in Buildings and Their Envelopes</td>
   </tr>
   <tr>
-    <td>IA009
-    <td>Adaptative Signal Processing</td>
+    <td>CM</td>
+    <td>Computational Modelling</td>
   </tr>
   <tr>
-    <td>IA940</td>
-    <td>Audio Signals Analysis and synthesis</td>
+    <td>IAVM</td>
+    <td>Intrumentation and Acoustic and Vibration Measurements</td>
+  </tr>
+    <td>SAEBR</td>
+    <td>Strategies for Acoustic and Thermal Rehabilitation</td>
   </tr>
 </table>
