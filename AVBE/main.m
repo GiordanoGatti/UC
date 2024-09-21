@@ -2,16 +2,15 @@ clear all
 close all
 clc
 
-%Group 5 - Fiona, N°2023185102 | Giordano, N°2023184877
 %Single ceramic hollow brick wall 15cm mortar lined on both sides with 1.5cm
 
 F = [100 125 160 200 250 315 400 500 630 800 1000 1250 1600 2000 2500 3150 4000 5000]; %1/3 octave bands
 h = 0.15;%[m]
 c = 340;%[m/s]
-ro = 1200;%[kg/m³]
-m = h*ro;%[kg/m²]
+ro = 1200;%[kg/mÂ³]
+m = h*ro;%[kg/mÂ²]
 v = 0.2;%poisson coefficient (dimensionless)
-E = 6*(10^9);%[N/m²]
+E = 6*(10^9);%[N/mÂ²]
 eta = 0.01;%material loss factor (dimensionless)
 
 display('Meisser:')
