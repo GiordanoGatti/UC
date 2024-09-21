@@ -1,5 +1,5 @@
 <p>
-<img src="https://www.uc.pt/site/assets/files/418310/fctuc_h_fundoclaro.1200x0.png" alt="FCTUC" style="width:10%"> 
+<img src="[https://www.uc.pt/site/assets/files/418310/fctuc_h_fundoclaro.1200x0.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uc.pt%2Ffctuc%2Fsobre-a-fctuc%2F&psig=AOvVaw3dls1Tu4uL2CyTsrih1dU4&ust=1727022017238000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj7v8C41IgDFQAAAAAdAAAAABAE)" alt="FCTUC" style="width:10%"> 
 </p>
 
 Here you will find some projects developed during my masters in Acoustic and Energy Efficiency for sustainable constructions at the Faculty of Science and Technology of the University of Coimbra. The projects are separated by their respective courses, listed below.
