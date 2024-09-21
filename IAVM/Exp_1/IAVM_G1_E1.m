@@ -29,8 +29,6 @@ S2M3D3 = importdata('SWEEP_3avg_S2_M3_D3.txt');
 S1M1D1.textdata
 %S1M1D1.data;
 
-
-
 F = S1M1D1.data(:,1);
 
 Param = ["T30","rT30","T20","rT20","T10","rT10","EDT","C80","C50","D50","Ts","BR"];
@@ -54,9 +52,6 @@ T20avg = avg(F,Param_val(:,:,3),Param(3))
 BR = [S1M1D1.data(1,13), S1M1D2.data(1,13), S1M1D3.data(1,13),S1M2D1.data(1,13), S1M2D2.data(1,13), S1M2D3.data(1,13) S1M3D1.data(1,13), S1M3D2.data(1,13), S1M3D3.data(1,13), S2M1D1.data(1,13), S2M1D2.data(1,13), S2M1D3.data(1,13), S2M2D1.data(1,13), S2M2D2.data(1,13), S2M2D3.data(1,13), S2M3D1.data(1,13), S2M3D2.data(1,13), S2M3D3.data(1,13),];
 
 BR_mean = mean(BR)
-
-
-
 
 
 
