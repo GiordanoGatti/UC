@@ -2,7 +2,6 @@ clear all
 close all
 clc
 
-%Group 4 - Giordano, N.2023184877 | Yassine, N.2023184866
 %Homogeneous concrete slab 0.3m
 
 						%DATA
