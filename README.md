@@ -1,5 +1,5 @@
 <p>
-<img src="https://www.arriscac.pt/site/assets/files/1400663/uc_prancheta_1.512x0.png" alt="UC" style="width:15%"> 
+<img src="https://www.arriscac.pt/site/assets/files/1400663/uc_prancheta_1.512x0.png" alt="UC" style="width:25%"> 
 </p>
 
 Here you will find some projects developed during my masters in Acoustic and Energy Efficiency for sustainable constructions at the Faculty of Science and Technology of the University of Coimbra. The projects are separated by their respective courses, listed below.
